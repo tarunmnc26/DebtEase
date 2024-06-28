@@ -138,7 +138,7 @@ const App = () => {
     <ThemeProvider theme={darkTheme}>
       <Container>
         <Typography align='center' variant="h3" gutterBottom>
-          SplitWise App
+          DebtEase App
         </Typography>
         <Grid container spacing={3}>
           <Grid item xs={12} md={4}>
